@@ -1,0 +1,28 @@
+{
+  "main": "outliers-critic",
+  "main_commit": "555c141228e40b7e2a62a3568ab8ad103e917561",
+  "mac": "outliers-critic-mac",
+  "macgen_commit": "9c2578fc+uncommitted",
+  "date": "2026-09-25",
+  "fingerprint": "449d83a72ee96a661c14e2aa7275ecc0eade3b30bbc29b9258665aa33cd7c8fc",
+  "left_out_of_fingerprint": [
+    ".mac-version.json"
+  ],
+  "files": [
+    {
+      "path": "README.md",
+      "category": "changed",
+      "sha256": "6ff97b8b725fa0bbbed1d51f832ee575710f34d40488a83cc8c2e9565ebb6f97"
+    },
+    {
+      "path": "design-critique-canon.md",
+      "category": "same",
+      "sha256": "e11cc3d72dd42ccd78c52c53f8b5103babca03ca57fda720ca3db46a3b9bd789"
+    },
+    {
+      "path": "the-critic.md",
+      "category": "same",
+      "sha256": "da7d4f440adeb98ac2335859838bc676dac5e59a6b84437ca0deb2a5b3d297d7"
+    }
+  ]
+}
